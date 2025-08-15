@@ -1,2 +1,2 @@
-# glossario-tecnico
-projeto glossário técnico desenvolvido em HTML, CSS e JS.
+# projeto receita
+projeto site de receitas desenvolvido em HTML, CSS.
