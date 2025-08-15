@@ -1,2 +1,2 @@
 # glossario tecnico
-projeto Glossário Técnico desenvolvido em HTML, CSS e JS.
+projeto Glossário Técnico desenvolvido em HTML, CSS e JS. 
