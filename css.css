@@ -1,0 +1,75 @@
+body{
+    background-color: 255,255,255;
+    overflow-x: hidden;
+}
+
+footer{
+    text-align: center;
+    background-color: palevioletred;
+    align-items: center;
+    margin-top: 4%;
+    padding: 10px;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+}
+
+.grupo-cards{
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+    margin-bottom: 6%;
+    margin-left: 2%;
+    border: 1px solid red;
+    width: 400px;
+    height: 350px;
+}
+
+.card{
+    background-color: rgb(235, 187, 215);
+    width: fit-content;
+    height: fit-content;
+    border-radius: 5px;
+    margin-right: 4%;
+    padding: 15px;
+    margin-bottom: 20px;
+    margin: 10px 50px 20px 0;
+    box-shadow: 0 2px 5px rgb(0, 0,  0, 0, 384);
+}
+
+
+.item {
+    background-color: #ecc3e0;
+    padding: 20px;
+    margin: 20px 0;
+    border-left: 6px solid#f184c4;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(204, 199, 199, 0.05);
+    transition: transform 0.2s ease;
+    width: 253px;
+    height: auto;
+    align-items: center;
+    margin: auto;
+    margin-top: 5%;
+    margin-bottom: 10px;
+  }
+  
+  .item:hover {
+    transform: scale(1.02);
+  }
+  
+  .item strong {
+    font-size: 1.1rem;
+    color: #6f5394;
+  }
+
+  .item code {
+    display: block;
+    background-color: #f0f0f0;
+    padding: 12px;
+    margin-top: 10px;
+    font-family: monospace;
+    font-size: 0.95rem;
+    border-radius: 5px;
+    overflow-x: auto;
+  }
