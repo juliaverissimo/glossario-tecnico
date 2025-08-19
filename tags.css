@@ -1,18 +1,10 @@
 body{
     background-color: rgb(255, 255, 255);
     overflow-x: hidden;
+    margin: 0;
 }  
 
-footer{
-    text-align: center;
-    background-color: palevioletred;
-    align-items: center;
-    margin-top: 4%;
-    padding: 10px;
-    bottom: 0;
-    position: fixed;
-    width: 100%;
-}
+
 h1{
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 40px;
@@ -92,18 +84,16 @@ padding: 0;
 }
 
 .grupo-cards{
-    display: flex;
-    justify-content: center;
-    margin-top: 5%;
-    margin-bottom: 6%;
+   display: flex;
+    margin-top: 30px;
+    margin-bottom: 4%;
     margin-left: 2%;
-    border: 1px solid red;
-    width: 400px;
-    height: 350px;
+    margin-right: 2%;
+    justify-content: center;
 }
 
 .card{
-    background-color: rgb(235, 187, 215);
+    /* background-color: rgb(235, 187, 215);
     width: fit-content;
     height: fit-content;
     border-radius: 5px;
@@ -111,7 +101,15 @@ padding: 0;
     padding: 15px;
     margin-bottom: 20px;
     margin: 10px 50px 20px 0;
+    box-shadow: 0 2px 5px rgb(0, 0,  0, 0, 384); */
+
+    background-color:  rgb(235, 187, 215);
+    width: 300px;
+    border-radius: 5px;
+    padding: 10px;
+    margin-right: 2%;
     box-shadow: 0 2px 5px rgb(0, 0,  0, 0, 384);
+
 }
 
 
@@ -151,3 +149,13 @@ padding: 0;
     overflow-x: auto;
   }
 
+footer{
+    text-align: center;
+    background-color: palevioletred;
+    align-items: center;
+    margin-top: 4%;
+    padding: 10px;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+}
