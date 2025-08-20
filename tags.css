@@ -69,7 +69,7 @@ padding: 0;
 }
 
 .container {
-    background-color:#e497b1;
+    background-color: palevioletred;
     width: 50%;
     height: fit-content;
     align-items: center;
@@ -103,7 +103,7 @@ padding: 0;
     margin: 10px 50px 20px 0;
     box-shadow: 0 2px 5px rgb(0, 0,  0, 0, 384); */
 
-    background-color:  rgb(235, 187, 215);
+    background-color:  #e497b1;
     width: 300px;
     border-radius: 5px;
     padding: 10px;
