@@ -4,13 +4,6 @@ Um site desenvolvido em **HTML, CSS e JavaScript** para auxiliar estudantes e pr
 
 ---
 
-## ✨ Preview
-![Preview do Glossário](./preview.png)
-
-> 🔎 Acesse o site: [coloque-o-link-aqui]
-
----
-
 ## 🚀 Funcionalidades
 - 🔍 Busca dinâmica de termos técnicos  
 - 📱 Layout responsivo para desktop e mobile  
@@ -26,12 +19,3 @@ Um site desenvolvido em **HTML, CSS e JavaScript** para auxiliar estudantes e pr
 
 ---
 
-## ⚙️ Como Rodar Localmente
-```bash
-# Clone este repositório
-git clone https://github.com/seu-usuario/seu-repo.git
-
-# Acesse a pasta
-cd seu-repo
-
-# Abra o arquivo index.html no navegador
